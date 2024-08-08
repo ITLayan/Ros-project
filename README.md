@@ -6,3 +6,7 @@ Step 1 : I went to the source directory to install the package inside it
 Step 2: I installed the dependencies using this command (rosdep install --from-paths src --ignore-src -r -y), and I chose ROS copy (noetic distro). Then I built the package using the (catkin_make) command.
 
 <img width="463" alt="f2" src="https://github.com/user-attachments/assets/3bb59070-17a0-498c-a911-88a8149a8665">
+
+Step 3: Controlling the robot arm by joint_state_publisher, command( roslaunch robot_arm_pkg check_motors.launch),to open the window for controlling the robot arm.
+
+<img width="481" alt="f3" src="https://github.com/user-attachments/assets/145e6510-b883-4a78-bf74-2ffcd813f49d">
