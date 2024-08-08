@@ -16,3 +16,4 @@ Step 4: As you see here The simulation shows the robot arm and how you can move 
 <img width="479" alt="f4" src="https://github.com/user-attachments/assets/34292ae4-17f3-42f2-94c8-012c23027d77">
 
 <img width="474" alt="f5" src="https://github.com/user-attachments/assets/17d7122a-9148-4ae0-a309-2e496079c82a">
+
